@@ -1,2 +1,2 @@
 # React-Native-App
-This for get basic idea about React Native
+This for getting a basic idea about React Native
